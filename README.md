@@ -1,4 +1,3 @@
-# simple_shell 
+# simple_shell
 
-
-A simple shell made by Israel Iginla and Caleb Adinfono
+A simple shell made by Israel Iginla and Caleb Adinfono.
